@@ -1,0 +1,37 @@
+#h1{
+    color: floralwhite;
+    font-size: 1.9em;
+    font-family: 'Balsamiq Sans', cursive;
+}
+body{
+    background-color: rgb(48, 89, 122);
+}
+.row .style{
+    border: 2px solid rgb(48, 42, 42);
+    background-color: rgb(221, 115, 155);
+    box-sizing: border-box;
+padding: 14px;
+width:100%;
+margin: 10px;
+}
+h2{
+    text-align: center;
+    color: rgb(42, 71, 236);
+    font-weight: bolder;
+    font-family: 'Balsamiq Sans', cursive;
+
+}
+.navbar-toggler-icon{
+    background-color: rgb(142, 180, 142);
+    border-color:rgb(223, 201, 209) ;
+}
+@media(min-width:768px){
+    #hidden{
+        display: none;
+    }
+}
+@media(min-width:992px){
+    #hidden2{
+        display: none;
+    }
+}
